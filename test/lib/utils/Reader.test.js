@@ -1,7 +1,7 @@
 const reader = require("../../../lib/utils/Reader");
-
-dsecribe("prueba para comprobar la lectura de nuestra BD provicional",() =>{
-    test("contar los ejemplares en ella", () => {
-
-    })
-})
+describe("test para Reader",() => {
+    test("1) recibir numero de ejemplares", () => {
+        let animalNumbers = reader.readJsonFile("InfMarAniMex.json");
+        expect(animalNumbers.length).toBe(4);
+    });
+});
