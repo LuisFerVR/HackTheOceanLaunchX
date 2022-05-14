@@ -1,0 +1,39 @@
+[
+    {
+        "name": "Tortuga caguama",
+        "nickName": "tortuga boba",
+        "from": "México",
+        "peculiarity": "su cabeza mide aproximadamente 25cm",
+        "location": "Baja California, y llega a los estados de Quintana Roo, Campeche, Yucatán, Veracruz, Tabasco y Tamaulipas",
+        "info": "la pesca inadecuada, el robo de sus huevos y la degradación de las playas, la ha puesto en peligro de extinción",
+        "type": "Cheloniidae"
+
+    },
+    {
+        "name": "Ambystoma mexicanum",
+        "nickName": "Ajolote",
+        "from": "México",
+        "peculiarity": "puede regenerar sus extremidades cuando las pierde en algún accidente.",
+        "location": "Anteriormente se le encontraba en el lago de Xochimilco en la ciudad de México",
+        "info": "famoso en todo el mundo gracias a su peculiar aspecto y por ser endémico de México.",
+        "type": "Anfibio"
+    },
+    {
+        "name": "Trichechus manatus",
+        "nickName": "Manatí de las Antillas",
+        "from": "México",
+        "peculiarity": "utilizan ambientes lénticos cercanos a áreas de alimentación, con mayor profundidad, como arroyos y confluencias, donde encuentran refugio.",
+        "location": "costas de Tamaulipas",
+        "info": "las acciones de conservación de esta criatura en Quintana Roo han logrado aumentar sus ejemplares en la zona.",
+        "type": "Manatí"
+    },
+    {
+        "name": "Phocoena sinus",
+        "nickName": "Vaquita marina",
+        "from": "México",
+        "peculiarity": "Suelen ser ejemplares solitarios. Solo se les ve acompañados de sus crías. Es la única especie de marsopas que vive en aguas calientes.",
+        "location": "norte del Golfo de California, desde las costas altas del Mar Cortés, entre Sonora y Baja California.",
+        "info": "sólo queden 97 individuos ha eliminado su variedad genética.",
+        "type": "cetáceo"
+    }
+]
