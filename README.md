@@ -14,4 +14,5 @@ traté de realizar una representación gráfica de la conectavidad estructurada 
 > Para nuestra Api generé una BD provicional con JSON
 > en la cual encontramos información acerca las especies marinas MEXICANAS en peligro de extinción.
 > Para ello requerí hacer un Modelado de Información y lo realicé gráficamente con un diagrama de objetos, el cual se observa a continuación:
+> 
 > ![HackModel](https://user-images.githubusercontent.com/98798741/168490703-f0dc455f-2764-48fc-88a8-067e5d0af4fe.png)
